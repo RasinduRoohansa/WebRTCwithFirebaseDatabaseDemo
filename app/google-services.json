@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595866640316",
+    "firebase_url": "https://fir-databasedemo-8ae01.firebaseio.com",
+    "project_id": "fir-databasedemo-8ae01",
+    "storage_bucket": "fir-databasedemo-8ae01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595866640316:android:082d1148ea0ff648",
+        "android_client_info": {
+          "package_name": "com.example.hp.firebasedbdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595866640316-uaee5ker84fo1duj0jpj09r2dn5k1k99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.firebasedbdemo",
+            "certificate_hash": "bd43730605281e16c8266704b9b5282e31229142"
+          }
+        },
+        {
+          "client_id": "595866640316-hicron74i2hf3342lfqqqlu2117t7af3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJdtxBiF3Sb88_3n8mqlkF8MWXAKXDIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595866640316-hicron74i2hf3342lfqqqlu2117t7af3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
